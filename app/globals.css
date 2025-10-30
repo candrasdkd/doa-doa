@@ -2,12 +2,89 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ==== Arabic Theme (global) ==== */
 :root {
-  --radius: 12px;
+  --arabic-green: #10603f;
+  --arabic-green-2: #0d4f35;
+  --sand-1: #efe4c9;
+  --sand-2: #ead9bb;
 }
 
-html, body {
-  height: 100%;
+/* Latar global: gradasi hijau + pola geometri + dunes pasir */
+body.arabic-theme {
+  position: relative;
+  min-height: 100vh;
+  background:
+    radial-gradient(1200px 600px at 20% -10%, rgba(16, 94, 66, .25), transparent 60%),
+    radial-gradient(900px 500px at 80% 0%, rgba(16, 94, 66, .20), transparent 60%),
+    linear-gradient(180deg, #eaf3ed 0%, #f7f3e7 60%);
+}
+
+/* Pola geometri tipis */
+body.arabic-theme::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  opacity: .16;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml;utf8,\<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'>\<g fill='none' stroke='%232d6a4f' stroke-width='1'>\<path d='M0 20h40M20 0v40'/>\<path d='M0 0l20 20L40 0M0 40l20-20L40 40'/>\</g></svg>");
+  background-size: 40px 40px;
+}
+
+/* Dunes pasir di bawah */
+body.arabic-theme::after {
+  content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 19rem;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(80% 100% at 10% 100%, rgba(230, 216, 186, .95) 0%, rgba(230, 216, 186, 0) 60%),
+    radial-gradient(70% 100% at 70% 100%, rgba(237, 224, 197, .9) 0%, rgba(237, 224, 197, 0) 60%),
+    linear-gradient(0deg, var(--sand-1) 0%, rgba(239, 228, 201, 0) 60%);
+}
+
+/* Dark mode tuning */
+.dark body.arabic-theme {
+  background: linear-gradient(180deg, #0b1512 0%, #0f1a16 60%);
+}
+
+.dark body.arabic-theme::before {
+  opacity: .10;
+}
+
+/* Kartu/permukaan kaca */
+.surface-arabic {
+  border: 1px solid rgba(13, 79, 53, .12);
+  background: rgba(255, 255, 255, .72);
+  backdrop-filter: blur(6px);
+  border-radius: 14px;
+}
+
+.dark .surface-arabic {
+  background: rgba(17, 24, 21, .65);
+  border-color: rgba(178, 245, 234, .08);
+}
+
+/* Tipografi untuk teks Arab (gunakan lang="ar" pada elemen Arab) */
+:lang(ar),
+.text-arabic {
+  font-family: var(--font-arabic), serif;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: .1px;
+  text-align: right;
+}
+
+/* Opsional: sentuhan judul */
+h1,
+h2 {
+  text-shadow: 0 1px 0 #ffffff, 0 8px 24px rgba(16, 94, 66, 0.12);
 }
 
 .container-narrow {
