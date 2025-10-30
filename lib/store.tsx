@@ -14,7 +14,7 @@ type State = {
 const defaultState: State = {
   favourites: {},
   showArabic: true,
-  showLatin: true,
+  showLatin: false,
   showTranslate: false,
   showVirtues: false
 };

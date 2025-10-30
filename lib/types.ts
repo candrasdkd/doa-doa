@@ -1,7 +1,5 @@
 export type Category =
-  | "pagi"
-  | "petang"
-  | "setelah-sholat"
+  | "amalan"
   | "harian"
   | "shalat"
   | "lainnya";

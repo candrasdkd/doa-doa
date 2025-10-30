@@ -6,8 +6,8 @@ import { inter } from "./fonts";
 import { StoreProvider } from "@/lib/store";
 
 export const metadata = {
-  title: "Doa & Dzikir - Next.js",
-  description: "Aplikasi web Doa & Dzikir yang responsif dengan Next.js + Tailwind",
+  title: "Doa & Dzikir",
+  description: "Aplikasi web Doa & Dzikir yang responsif",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

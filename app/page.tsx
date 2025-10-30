@@ -8,7 +8,7 @@ import doaData from "@/data/doa.json";
 import type { DoaItem, Category } from "@/lib/types";
 import { matchesQuery } from "@/lib/search";
 
-const ALL_CATS: Category[] = ["pagi","petang","setelah-sholat","harian","shalat","lainnya"];
+const ALL_CATS: Category[] = ["harian", "amalan", "shalat", "lainnya"];
 
 export default function Page() {
   const [q, setQ] = React.useState("");

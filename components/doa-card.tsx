@@ -55,12 +55,12 @@ export default function DoaCard({ item }: Props) {
             {item.arabic}
           </p>
         )}
-        {state.showLatin && (
+        {state.showLatin && item.latin && (
           <p className="text-sm text-neutral-700 dark:text-neutral-300">
             <span className="font-semibold">Latin:</span> {item.latin}
           </p>
         )}
-        {state.showTranslate && (
+        {state.showTranslate && item.translation_id && (
           <p className="text-sm text-neutral-700 dark:text-neutral-300">
             <span className="font-semibold">Arti (ID):</span> {item.translation_id}
           </p>
