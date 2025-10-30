@@ -9,7 +9,7 @@ import type { Category } from "@/lib/types";
 const categories: { key: Category; label: string }[] = [
   { key: "harian", label: "Doa Harian" },
   { key: "amalan", label: "Amalan Harian" },
-  { key: "shalat", label: "Doa Shalat" },
+  { key: "sholat", label: "Doa Sholat" },
   { key: "lainnya", label: "Lainnya" },
 ];
 

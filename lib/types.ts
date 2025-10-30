@@ -1,7 +1,7 @@
 export type Category =
   | "amalan"
   | "harian"
-  | "shalat"
+  | "sholat"
   | "lainnya";
 
 export type DoaItem = {

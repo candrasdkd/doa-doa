@@ -31,16 +31,6 @@
   },
   {
     "id": "amalan2",
-    "title": "Doa Pagi Sore",
-    "category": "amalan",
-    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
-    "latin": "BISMILLAAHILLADZII LAA YADHURRU MA'AS MIHI SYAI UN FIL ARDHI WA LAA FIS SAMAAI WA HUWAS SAMII'UL 'ALIIM",
-    "translation_id": "Dengan menyebutkan nama Allah yang tidak ada sesuatupun dengan menyebut namaNya yang membahayakan di bumi maupun di langit, dan Dia Maha Mendengar lagi Maha mengetahui",
-    "source": "HR. Tirmidzi no. 3388",
-    "virtue_id": "Pagi Hari 3X dan Sore Hari 3X \n Tidak akan diganggu oleh sesuatu"
-  },
-  {
-    "id": "amalan3",
     "title": "Doa Pagi Sore 2",
     "category": "amalan",
     "arabic": "للَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ وَأَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَعْتَرِفُ بِذُنُوبِي فَاغْفِرْ لِي ذُنُوبِي إِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
@@ -50,7 +40,7 @@
     "virtue_id": "Tidak ada seorangpun diantara kalian yang mengucapkannya ketika sore hari kemudian datang kepadanya taqdir untuk meninggal sebelum datang pagi hari melainkan wajib baginya Surga, dan tidaklah ia mengucapkannya ketika pagi hari kemudian datang kepadanya taqdir untuk meninggal sebelum datang sore hari melainkan wajib baginya Surga"
   },
   {
-    "id": "amalan4",
+    "id": "amalan3",
     "title": "Doa Pagi Sore 3",
     "category": "amalan",
     "arabic": "سُبْحَانَ اللَّهِ 100x, الْحَمْدُ لِلَّهِ 100x, لَا إِلَهَ إِلَّا اللَّهُ 100x, اللَّهُ أَكْبَرُ 100x",
@@ -60,13 +50,13 @@
     "virtue_id": "Barang siapa yang bertasbih kepada Allah sebanyak seratus kali pada pagi hari dan seratus kali pada sore hari maka ia seperti orang yang seratus kali haji. Barang siapa bertahmid kepada Allah seratus kali pada pagi dan sore hari maka ia seperti membawa seratus kuda di jalan Allah, atau orang yang berperang seratus peperangan. Dan barang siapa yang bertahlil kepada Allah sebanyak seratus kali pada pagi hari dan seratus kali pada sore hari maka ia seperti orang yang memerdekakan budak dari anak Isma'il, dan barang siapa yang bertakbir kepada Allah sebayak seratus kali pada pagi hari dan seratus kali pada sore hari maka tidak ada orang pada hari itu yang membawa lebih banyak daripada apa yang ia bawa kecuali orang yang mengucapkan seperti itu atau lebih banyak lagi dari apa yang ia ucapkan."
   },
   {
-    "id": "shalat1",
+    "id": "sholat1",
     "title": "Doa Sholat Istikhoroh",
-    "category": "shalat",
+    "category": "sholat",
     "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ وَتَعْلَمُ وَلَا أَعْلَمُ وَأَنْتَ عَلَّامُ الْغُيُوبِ اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي (عَاجِلِ أَمْرِي وَآجِلِهِ) فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي ( فِي عَاجِلِ أَمْرِي وَآجِلِهِ) فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ وَاقْدُرْ لِي الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي",
     "latin": "Allahumma inniy astakhiiruka bi 'ilmika wa astaqdiruka biqudratika wa as-aluka min fadhlikal 'azhim, fainnaka taqdiru wa laa aqdiru wa ta'lamu wa laa A'lamu wa anta 'allaamul ghuyuub. Allahumma in kunta ta'lamu anna haadzal amru khairun liy fiy diiniy wa ma'aasyiy wa 'aafiyati amriy ( 'Aajili amriy wa aajilihi) faqdurhu liy wa yassirhu liy tsumma baarik liy fiihi. Wa in kunta ta'lamu anna haadzal amru syarrun liy fiy diiniy wa ma'aasyiy wa 'aafiyati amriy (fiy 'aajili amriy wa aajilihi) fashrifhu 'anniy washrifniy 'anhu waqdurliyl khaira haitsu kaana tsummar dhiniy",
     "translation_id": "Ya Allah aku memohon pilihan kepadaMu dengan ilmuMu dan memohon kemampuan dengan kekuasaanMu dan memohon kepadaMu dengan karuniaMu yang Agung, karena Engkau Maha berkuasa sedang aku tidak berkuasa, Engkau Maha Mengetahui sedang aku tidak mengetahui karena Engkaulah yang Maha Mengetahui perkara yang ghoib. Ya Allah bila Engkau mengetahui bahwa urusan ini baik untukku, bagi agamaku, kehidupanku dan kesudahan urusanku ini atau Beliau bersabda; di waktu dekat atau di masa nanti maka takdirkanlah buatku dan mudahkanlah kemudian berikanlah berkah padanya. Namun sebaliknya, ya Allah bila Engkau mengetahui bahwa urusan ini buruk untukku, bagi agamaku, kehidupanku dan kesudahan urusanku ini atau Beliau bersabda; di waktu dekat atau di maa nanti maka jauhkanlah urusan dariku dan jauhkanlah aku darinya dan tetapkanlah buatku urusn yang baik saja dimanapun adanya kemudian paskanlah hatiku dengan ketepanMu itu",
     "source": "HR. Bukhori no. 6382",
-    "virtue_id": "sholat 2 rokaat lalu baca doa ini. Beberapa ulama berpendapat perkara yang minta petunjuk dari Allah agar disebutkan setelah kalimat هَذَا الْأَمْرَ (haadzal amru)"
+    "virtue_id": ""
   }
 ]
