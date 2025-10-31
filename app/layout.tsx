@@ -4,11 +4,20 @@ import Footer from "@/components/footer";
 import { ThemeProvider } from "@/components/theme-provider";
 import { inter, arabic } from "./fonts";
 import { StoreProvider } from "@/lib/store";
+import PWARegister from "@/components/PWARegister";
+import { Metadata } from "next";
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "Doa & Dzikir",
-  description: "Aplikasi web Doa & Dzikir yang responsif",
+  description: "Aplikasi Doa & Dzikir",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
+    { media: "(prefers-color-scheme: dark)", color: "#0b0f12" }
+  ],
+  appleWebApp: { capable: true, statusBarStyle: "default", title: "Doa & Dzikir" },
+  manifest: "/manifest.webmanifest",
 };
+
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -18,6 +27,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       >
         <ThemeProvider>
           <StoreProvider>
+            <PWARegister />
             <Header />
             <main className="container my-6">{children}</main>
             <Footer />
