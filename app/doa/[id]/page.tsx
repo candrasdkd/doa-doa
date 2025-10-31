@@ -224,7 +224,7 @@ export default function DoaDetailPage() {
           {state.showVirtues && item.virtue_id && (
             <div className="bg-emerald-50/50 dark:bg-emerald-900/20 rounded-lg p-4">
               <p className="text-sm leading-relaxed text-emerald-800 dark:text-emerald-200">
-                <span className="font-semibold">Keutamaan:</span> {item.virtue_id}
+                <span className="font-semibold">Keutamaan/Catatan:</span> {item.virtue_id}
               </p>
             </div>
           )}
@@ -268,8 +268,8 @@ export default function DoaDetailPage() {
                   fill="none"
                   stroke="currentColor"
                   className={`transition-all duration-500 ease-out ${reachedTarget
-                      ? "text-emerald-500"
-                      : "text-emerald-400 dark:text-emerald-300"
+                    ? "text-emerald-500"
+                    : "text-emerald-400 dark:text-emerald-300"
                     }`}
                   strokeWidth={stroke}
                   strokeLinecap="round"

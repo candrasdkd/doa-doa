@@ -20,7 +20,7 @@ export default function DoaCard({ item }: Props) {
       if (state.showArabic && item.arabic) parts.push(item.arabic);
       if (state.showLatin && item.latin) parts.push(item.latin);
       if (state.showTranslate && item.translation_id) parts.push(item.translation_id);
-      if (state.showVirtues && item.virtue_id) parts.push(`Keutamaan: ${item.virtue_id}`);
+      if (state.showVirtues && item.virtue_id) parts.push(`Keutamaan/Catatan: ${item.virtue_id}`);
       if (item.source) parts.push(`Sumber: ${item.source}`);
       await navigator.clipboard.writeText(parts.join("\n\n"));
       alert("Teks disalin.");
@@ -124,7 +124,7 @@ export default function DoaCard({ item }: Props) {
         {/* Keutamaan */}
         {state.showVirtues && item.virtue_id && (
           <p className="text-sm text-emerald-700 dark:text-emerald-300">
-            <span className="font-semibold">Keutamaan:</span> {item.virtue_id}
+            <span className="font-semibold">Keutamaan/Catatan:</span> {item.virtue_id}
           </p>
         )}
 

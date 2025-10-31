@@ -121,7 +121,7 @@ export default function Filters({ active, onChange }: Props) {
         <Switch
           checked={state.showVirtues}
           onCheckedChange={() => toggle("showVirtues")}
-          label="Keutamaan"
+          label="Keutamaan/Catatan"
         />
       </div>
     </fieldset>

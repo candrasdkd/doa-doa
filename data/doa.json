@@ -58,5 +58,45 @@
     "translation_id": "Ya Allah aku memohon pilihan kepadaMu dengan ilmuMu dan memohon kemampuan dengan kekuasaanMu dan memohon kepadaMu dengan karuniaMu yang Agung, karena Engkau Maha berkuasa sedang aku tidak berkuasa, Engkau Maha Mengetahui sedang aku tidak mengetahui karena Engkaulah yang Maha Mengetahui perkara yang ghoib. Ya Allah bila Engkau mengetahui bahwa urusan ini baik untukku, bagi agamaku, kehidupanku dan kesudahan urusanku ini atau Beliau bersabda; di waktu dekat atau di masa nanti maka takdirkanlah buatku dan mudahkanlah kemudian berikanlah berkah padanya. Namun sebaliknya, ya Allah bila Engkau mengetahui bahwa urusan ini buruk untukku, bagi agamaku, kehidupanku dan kesudahan urusanku ini atau Beliau bersabda; di waktu dekat atau di maa nanti maka jauhkanlah urusan dariku dan jauhkanlah aku darinya dan tetapkanlah buatku urusn yang baik saja dimanapun adanya kemudian paskanlah hatiku dengan ketepanMu itu",
     "source": "HR. Bukhori no. 6382",
     "virtue_id": ""
+  },
+  {
+    "id": "sholat2",
+    "title": "Doa Sholat Tasbih",
+    "category": "sholat",
+    "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+    "latin": "SUBHAANALLAH WALHAMDULILLAH WA LAAILAAHA ILLALLAH WALLAHU",
+    "translation_id": "Maha Suci Allah dan Segala puji bagi Allah dan Tiada Tuhan kecuali Allah dan Allah Maha Besar",
+    "source": "HR. Tirmidzi no. 481",
+    "virtue_id": ""
+  },
+  {
+    "id": "sholat3",
+    "title": "Doa Sholat Hajat",
+    "category": "sholat",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْحَلِيمُ الْكَرِيمُ سُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ الْعَظِيمِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ وَعَزَائِمَ مَغْفِرَتِكَ وَالْغَنِيمَةَ مِنْ كُلِّ بِرٍّ وَالسَّلَامَةَ مِنْ كُلِّ إِثْمٍ لَا تَدَعْ لِي ذَنْبًا إِلَّا غَفَرْتَهُ وَلَا هَمًّا إِلَّا فَرَّجْتَهُ وَلَا حَاجَةً هِيَ لَكَ رِضًا إِلَّا قَضَيْتَهَا يَا أَرْحَمَ الرَّاحِمِينَ",
+    "latin": "LAA ILAAHA ILLALLAAHUL HALIIMUL KARIIM, SUBHANALLAAHI RABBIL 'ARSYIL 'ADZIIM, AL HAMDULILLAAHI RABBIL 'AALAMIIN, AS'ALUKA MUUJIBAATI RAHMATIKA WA AZAA'IMA MAGHFIRATIKA WAL GHANIIMATA MIN KULLI BIRRIN WAS SALAAMATA MIN KULLI ITSMIN, LAA TADA' LI DZAMBAN ILLAA GHAFARTAHU WALAA HAMMAN ILLAA FARRAJTAHU WALAA HAAJATAN HIYA LAKA RIDLAN ILLA QADLAITAHA YAA ARHAMAR RAHIMIIN",
+    "translation_id": "Tidak ada Ilah yang berhak disembah selain Allah yang maha lembut lagi Mahapemurah, Mahasuci Allah Rabb pemilik 'Arsy yang Mahaagung, segala puji bagi Allah Rabb semesta Alam, aku mengharap rahmatMU, ketetapan hati (untuk meraih) ampunanMu, mendapatkan keberuntungan dengan segala kabaikan dan keselamatan dari segala perbuatan dosa, jangan Engkau biarkan dosa padaku kecuali Engkau mengampuninya, dan jangan Engkau biarkan kegundahan kecuali Engkau membukakannya, dan jangan Engkau biarkan kebutuhan-kebutuhan yang Engkau ridlai kecuali Engkau penuhi, wahai Dzat yang maha pengasih",
+    "source": "HR. Tirmidzi no. 479",
+    "virtue_id": "sholat 2 rokaat lalu baca doa ini"
+  },
+  {
+    "id": "sholat4",
+    "title": "Doa Sholat Mayit",
+    "category": "sholat",
+    "arabic": "اللهُمَّ، اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ، وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ (مِنْ عَذَابِ النَّارِ)",
+    "latin": "ALLAHUMMAGHFIR LAHU WARHAMHU WA 'AAFIHI WA'FU 'ANHU WA AKRIM NUZULAHU WA WASSI' MUDKHALAHU WAGHSILHU BILMAA`I WATS TSALJI WAL BARADI WA NAQQIHI MINAL KHATHAAYAA KAMAA NAQQAITATS TSAUBAL ABYADLA MINAD DANASI WA ABDILHU DAARAN KHAIRAN MIN DAARIHI WA AHLAN KHAIRAN MIN AHLIHI WA ZAUJAN KHAIRAN MIN ZAUJIHI WA ADKHILHUL JANNATA WA A'IDZHU MIN 'ADZAABIL QABRI (MIN 'ADZAABIN NAAR)",
+    "translation_id": "Ya Allah, ampunilah dosa-dosanya, kasihanilah ia, lindungilah ia dan maafkanlah ia, muliakanlah tempat kembalinya, lapangkan kuburnyak, bersihkanlah ia dengan air, salju dan air yang sejuk. Bersihkanlah ia dari segala kesalahan, sebagana Engkau telah membersihkan pakaian putih dari kotoran, dan gantilah rumahnya -di dunia- dengan rumah yang lebih baik -di akhirat- serta gantilah keluarganya -di dunia- dengan keluarga yang lebih baik, dan pasangan di dunia dengan yang lebih baik. Masukkanlah ia ke dalam surga-Mu dan lindungilah ia dari siksa kubur atau siksa api neraka",
+    "source": "HR. Muslim no. 963",
+    "virtue_id": ""
+  },
+  {
+    "id": "sholat5",
+    "title": "Doa Sholat Mayit 2",
+    "category": "sholat",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِحَيِّنَا وَمَيِّتِنَا وَشَاهِدِنَا وَغَائِبِنَا وَذَكَرِنَا وَأُنْثَانَا وَصَغِيرِنَا وَكَبِيرِنَا",
+    "latin": "ALLOHUMMAGHFIR LIHAYYINAA WA MAYYITINAA WA SYAAHIDINAA WA GHOO IBINAA WA DZAKARINAA WA UNTSAANAA WA SHOGHIIRINAA WA KABIIRINAA",
+    "translation_id": "Ya Allah berilah ampunan bagi yang masih hidup di antara kami dan yang sudah meninggal dunia, orang yang hadir di antara kami dan yang tidak hadir, kaum laki-laki di antara kami dan kaum wanita, orang yang masih muda di antara kami dan orang yang sudah tua",
+    "source": "HR. Nasai no. 1986",
+    "virtue_id": ""
   }
 ]
