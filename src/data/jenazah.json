@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sholat-jenazah",
+    "judul": "Doa Sholat Jenazah",
+    "kategori": "Kematian & Jenazah",
+    "konteks": "Dibaca dalam sholat jenazah",
+    "versions": []
+  },
+  {
+    "id": "takziah",
+    "judul": "Doa Takziah",
+    "kategori": "Kematian & Jenazah",
+    "konteks": "Dibaca ketika melayat atau menyampaikan belasungkawa",
+    "versions": []
+  },
+  {
+    "id": "ziarah-kubur",
+    "judul": "Doa Ziarah Kubur",
+    "kategori": "Kematian & Jenazah",
+    "konteks": "Dibaca ketika mengunjungi makam",
+    "versions": []
+  },
+  {
+    "id": "doa-mayit",
+    "judul": "Doa untuk Mayit",
+    "kategori": "Kematian & Jenazah",
+    "konteks": "Dibaca untuk mendoakan orang yang telah meninggal dunia",
+    "versions": []
+  }
+]

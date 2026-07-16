@@ -1,0 +1,24 @@
+[
+  {
+    "id": "kamar-mandi",
+    "judul": "Doa Masuk & Keluar Kamar Mandi",
+    "kategori": "Kamar Mandi",
+    "konteks": "Dibaca ketika memasuki dan meninggalkan kamar mandi/WC",
+    "versions": [
+      {
+        "id": "kamar-mandi-v1",
+        "sumber": "Saat Masuk — HR. Bukhari & Muslim",
+        "arab": "اَللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+        "latin": "Allahumma innii a'uudzu bika minal khubutsi wal khabaa-its",
+        "artinya": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari godaan setan laki-laki dan setan perempuan."
+      },
+      {
+        "id": "kamar-mandi-v2",
+        "sumber": "Saat Keluar — HR. Abu Dawud & Tirmidzi",
+        "arab": "غُفْرَانَكَ",
+        "latin": "Ghufraanak",
+        "artinya": "Aku memohon ampunan-Mu."
+      }
+    ]
+  }
+]

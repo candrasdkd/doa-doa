@@ -1,0 +1,32 @@
+[
+  {
+    "id": "naik-kendaraan",
+    "judul": "Doa Naik Kendaraan",
+    "kategori": "Perjalanan",
+    "konteks": "Dibaca ketika hendak menaiki kendaraan",
+    "versions": [
+      {
+        "id": "naik-kendaraan-v1",
+        "sumber": "QS. Az-Zukhruf: 13-14",
+        "arab": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+        "latin": "Subhaanalladzii sakhkhara lanaa haadzaa wa maa kunnaa lahuu muqriniin, wa innaa ilaa rabbinaa lamunqalibuun",
+        "artinya": "Maha Suci Allah yang telah menundukkan kendaraan ini untuk kami, padahal kami sebelumnya tidak mampu menguasainya. Dan sesungguhnya kami akan kembali kepada Rabb kami."
+      }
+    ]
+  },
+  {
+    "id": "safar",
+    "judul": "Doa Safar (Perjalanan Jauh)",
+    "kategori": "Perjalanan",
+    "konteks": "Dibaca ketika memulai perjalanan jauh",
+    "versions": [
+      {
+        "id": "safar-v1",
+        "sumber": "HR. Muslim",
+        "arab": "اَللّٰهُ أَكْبَرُ اَللّٰهُ أَكْبَرُ اَللّٰهُ أَكْبَرُ سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ اَللّٰهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى اَللّٰهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ اَللّٰهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الْأَهْلِ",
+        "latin": "Allahu akbar, Allahu akbar, Allahu akbar. Subhaanalladzii sakhkhara lanaa haadzaa wa maa kunnaa lahuu muqriniin, wa innaa ilaa rabbinaa lamunqalibuun. Allahumma innaa nas-aluka fii safarinaa haadzal birra wat taqwaa, wa minal 'amali maa tardhaa. Allahumma hawwin 'alainaa safaranaa haadzaa wathwi 'annaa bu'dahu. Allahumma antash shaahibu fis safari wal khaliifatu fil ahli",
+        "artinya": "Allah Maha Besar (3x). Maha Suci Allah yang telah menundukkan semua ini bagi kami, padahal kami sebelumnya tidak mampu menguasainya, dan sesungguhnya kami akan kembali kepada Rabb kami. Ya Allah, sesungguhnya kami memohon kepada-Mu dalam perjalanan ini kebajikan dan ketakwaan, serta amal yang Engkau ridhai. Ya Allah, mudahkanlah perjalanan kami ini dan dekatkanlah jarak jauhnya. Ya Allah, Engkaulah teman dalam perjalanan dan yang menjaga keluarga yang ditinggalkan."
+      }
+    ]
+  }
+]

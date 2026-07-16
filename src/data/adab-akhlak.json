@@ -1,0 +1,39 @@
+[
+  {
+    "id": "ketika-marah",
+    "judul": "Doa Ketika Marah",
+    "kategori": "Adab & Akhlak",
+    "konteks": "Dibaca ketika sedang marah untuk meredakan emosi",
+    "versions": [
+      {
+        "id": "ketika-marah-v1",
+        "sumber": "HR. Bukhari",
+        "arab": "أَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "latin": "A‘ūdzu billāhi minasy-syaithānir-rajīm.",
+        "artinya": "Aku berlindung kepada Allah dari setan yang terkutuk."
+      },
+      {
+        "id": "ketika-marah-v2",
+        "sumber": "HR. Ibnu Sunni",
+        "arab": "اللّٰهُمَّ اغْفِرْ لِي ذَنْبِي، وَأَذْهِبْ غَيْظَ قَلْبِي، وَأَجِرْنِي مِنَ الشَّيْطَانِ",
+        "latin": "Allāhummaghfir lī dzanbī, wa adzhib ghaizha qalbī, wa ajirnī minasy-syaithān",
+        "artinya": "Ya Allah, ampunilah dosa-dosaku, hilangkanlah kemarahan dari hatiku, dan lindungilah aku dari setan."
+      }
+    ]
+  },
+  {
+    "id": "mendengar-suara-anjing-dan-keledai",
+    "judul": "Doa Ketika Mendengar Suara Anjing dan Keledai",
+    "kategori": "Adab & Akhlak",
+    "konteks": "Dibaca ketika sedang mendengarkan suara anjing dan keledai",
+    "versions": [
+      {
+        "id": "mendengar-suara-anjing-dan-keledai-v1",
+        "sumber": "",
+        "arab": "أَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "latin": "A‘ūdzu billāhi minasy-syaithānir-rajīm",
+        "artinya": "Aku berlindung kepada Allah dari setan yang terkutuk."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "masuk-pasar",
+    "judul": "Doa Masuk Pasar",
+    "kategori": "Aktivitas Harian",
+    "konteks": "Dibaca ketika memasuki pasar atau pusat perbelanjaan",
+    "versions": []
+  },
+  {
+    "id": "duduk-berdiri",
+    "judul": "Doa Duduk dan Berdiri",
+    "kategori": "Aktivitas Harian",
+    "konteks": "Dibaca ketika hendak duduk atau berdiri",
+    "versions": []
+  }
+]

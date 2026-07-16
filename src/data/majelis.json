@@ -1,0 +1,17 @@
+[
+  {
+    "id": "kafaratul-majlis",
+    "judul": "Doa Penutup Majelis (Kafaratul Majlis)",
+    "kategori": "Majelis",
+    "konteks": "Dibaca untuk menutup suatu majelis/pertemuan",
+    "versions": [
+      {
+        "id": "kafaratul-majlis-v1",
+        "sumber": "HR. Tirmidzi",
+        "arab": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+        "latin": "Subhaanakallahumma wa bihamdika asyhadu allaa ilaaha illaa anta astaghfiruka wa atuubu ilaik",
+        "artinya": "Maha Suci Engkau ya Allah, dan dengan memuji-Mu aku bersaksi tidak ada Tuhan yang berhak disembah selain Engkau, aku memohon ampun dan bertaubat kepada-Mu."
+      }
+    ]
+  }
+]

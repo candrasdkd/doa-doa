@@ -1,0 +1,24 @@
+[
+  {
+    "id": "masjid",
+    "judul": "Doa Masuk & Keluar Masjid",
+    "kategori": "Masjid",
+    "konteks": "Dibaca ketika memasuki dan meninggalkan masjid",
+    "versions": [
+      {
+        "id": "masjid-v1",
+        "sumber": "Saat Masuk — HR. Muslim",
+        "arab": "اَللّٰهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "latin": "Allahummaftah lii abwaaba rahmatik",
+        "artinya": "Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu."
+      },
+      {
+        "id": "masjid-v2",
+        "sumber": "Saat Keluar — HR. Muslim",
+        "arab": "اَللّٰهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+        "latin": "Allahumma innii as-aluka min fadhlik",
+        "artinya": "Ya Allah, sesungguhnya aku memohon kepada-Mu dari karunia-Mu."
+      }
+    ]
+  }
+]

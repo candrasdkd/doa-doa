@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sebelum-makan",
+    "judul": "Doa Sebelum Makan",
+    "kategori": "Makan & Minum",
+    "konteks": "Dibaca sebelum mulai makan atau minum",
+    "versions": [
+      {
+        "id": "sebelum-makan-v1",
+        "sumber": "Umum",
+        "arab": "بِسْمِ اللَّهِ",
+        "latin": "Bismillah",
+        "artinya": "Dengan menyebut nama Allah."
+      },
+      {
+        "id": "sebelum-makan-v2",
+        "sumber": "HR. Abu Dawud & Tirmidzi",
+        "arab": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+        "latin": "Bismillahi awwalahu wa aakhirah",
+        "artinya": "Dengan menyebut nama Allah pada awal dan akhirnya.",
+        "catatan": "Dibaca apabila teringat belum membaca basmalah di awal makan."
+      }
+    ]
+  },
+  {
+    "id": "sesudah-makan",
+    "judul": "Doa Sesudah Makan",
+    "kategori": "Makan & Minum",
+    "konteks": "Dibaca setelah selesai makan atau minum",
+    "versions": [
+      {
+        "id": "sesudah-makan-v1",
+        "sumber": "HR. Abu Dawud & Tirmidzi",
+        "arab": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+        "latin": "Alhamdulillaahilladzii ath'amanii haadzaa wa razaqaniihi min ghairi haulin minnii wa laa quwwah",
+        "artinya": "Segala puji bagi Allah yang telah memberiku makan ini dan merezekikannya kepadaku tanpa daya dan kekuatan dariku."
+      },
+      {
+        "id": "sesudah-makan-v2",
+        "sumber": "Versi Umum",
+        "arab": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+        "latin": "Alhamdulillaahilladzii ath'amanaa wa saqaanaa wa ja'alanaa muslimiin",
+        "artinya": "Segala puji bagi Allah yang telah memberi kami makan dan minum, serta menjadikan kami sebagai orang-orang muslim."
+      }
+    ]
+  }
+]

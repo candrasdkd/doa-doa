@@ -1,0 +1,24 @@
+[
+  {
+    "id": "orang-tua",
+    "judul": "Doa untuk Kedua Orang Tua",
+    "kategori": "Keluarga",
+    "konteks": "Dibaca untuk mendoakan kedua orang tua",
+    "versions": [
+      {
+        "id": "orang-tua-v1",
+        "sumber": "QS. Al-Isra: 24",
+        "arab": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+        "latin": "Rabbighfir lii wa liwaalidayya warhamhumaa kamaa rabbayaanii shaghiiraa",
+        "artinya": "Ya Tuhanku, ampunilah aku dan kedua orang tuaku, dan sayangilah keduanya sebagaimana mereka telah mendidikku sewaktu kecil."
+      },
+      {
+        "id": "orang-tua-v2",
+        "sumber": "QS. Ibrahim: 41",
+        "arab": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+        "latin": "Rabbanaghfir lii wa liwaalidayya wa lil mu-miniina yauma yaquumul hisaab",
+        "artinya": "Ya Tuhan kami, ampunilah aku dan kedua orang tuaku, dan seluruh orang-orang mukmin pada hari terjadinya hisab (perhitungan amal)."
+      }
+    ]
+  }
+]

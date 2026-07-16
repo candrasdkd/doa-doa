@@ -1,0 +1,32 @@
+[
+  {
+    "id": "keluar-rumah",
+    "judul": "Doa Keluar Rumah",
+    "kategori": "Rumah",
+    "konteks": "Dibaca ketika hendak keluar rumah",
+    "versions": [
+      {
+        "id": "keluar-rumah-v1",
+        "sumber": "HR. Abu Dawud & Tirmidzi",
+        "arab": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "latin": "Bismillahi tawakkaltu 'alallahi laa haula wa laa quwwata illaa billaah",
+        "artinya": "Dengan nama Allah, aku bertawakal kepada Allah, tiada daya dan kekuatan kecuali dengan pertolongan Allah."
+      }
+    ]
+  },
+  {
+    "id": "masuk-rumah",
+    "judul": "Doa Masuk Rumah",
+    "kategori": "Rumah",
+    "konteks": "Dibaca ketika hendak masuk rumah",
+    "versions": [
+      {
+        "id": "masuk-rumah-v1",
+        "sumber": "HR. Abu Dawud",
+        "arab": "بِسْمِ اللَّهِ وَلَجْنَا وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى رَبِّنَا تَوَكَّلْنَا",
+        "latin": "Bismillahi walajnaa wa bismillahi kharajnaa wa 'alaa rabbinaa tawakkalnaa",
+        "artinya": "Dengan nama Allah kami masuk dan dengan nama Allah kami keluar, dan kepada Rabb kami, kami bertawakal."
+      }
+    ]
+  }
+]
