@@ -1,30 +1,61 @@
 [
   {
+    "id": "takziah",
+    "judul": "Ucapan Takziah",
+    "kategori": "Kematian & Jenazah",
+    "konteks": "Diucapkan ketika melayat atau menyampaikan belasungkawa",
+    "versions": [
+      {
+        "id": "takziah-v1",
+        "sumber": "HR. Bukhari",
+        "arab": "لِلَّهِ مَا أَخَذَ وَلَهُ مَا أَعْطَى، وَكُلُّ شَيْءٍ عِنْدَهُ بِأَجَلٍ مُسَمًّى",
+        "latin": "Lillāhi mā akhadza wa lahu mā a'thā, wa kullu syai'in 'indahu bi-ajalin musamman.",
+        "artinya": "Bagi Allah apa pun yang Dia ambil dan yang Dia berikan. Segala sesuatu mempunyai masa yang telah ditentukan di sisi-Nya."
+      }
+    ]
+  },
+  {
     "id": "sholat-jenazah",
     "judul": "Doa Sholat Jenazah",
     "kategori": "Kematian & Jenazah",
-    "konteks": "Dibaca dalam sholat jenazah",
-    "versions": []
-  },
-  {
-    "id": "takziah",
-    "judul": "Doa Takziah",
-    "kategori": "Kematian & Jenazah",
-    "konteks": "Dibaca ketika melayat atau menyampaikan belasungkawa",
-    "versions": []
-  },
-  {
-    "id": "ziarah-kubur",
-    "judul": "Doa Ziarah Kubur",
-    "kategori": "Kematian & Jenazah",
-    "konteks": "Dibaca ketika mengunjungi makam",
-    "versions": []
-  },
-  {
-    "id": "doa-mayit",
-    "judul": "Doa untuk Mayit",
-    "kategori": "Kematian & Jenazah",
-    "konteks": "Dibaca untuk mendoakan orang yang telah meninggal dunia",
-    "versions": []
+    "konteks": "Dibaca pada takbir ketiga sholat jenazah. Pilih versi sesuai jenis jenazah.",
+    "versions": [
+      {
+        "id": "sholat-jenazah-laki",
+        "sumber": "Jenazah laki-laki",
+        "arab": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ، وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ، وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ أَوْ مِنْ عَذَابِ النَّارِ",
+        "latin": "Allāhummaghfir lahu warhamhu wa 'āfihi wa'fu 'anhu, wa akrim nuzulahu wa wassi' mudkhalahu, waghsilhu bil-mā'i wats-tsalji wal-baradi, wa naqqihi minal-khathāyā kamā naqqaitats-tsaubal-abyadha minad-danasi, wa abdilhu dāran khairan min dārihi, wa ahlan khairan min ahlihi, wa zaujan khairan min zaujihi, wa adkhilhul-jannata wa a'idzhu min 'adzābil-qabri au min 'adzābin-nār.",
+        "artinya": "Ya Allah, ampunilah dia, sayangilah dia, selamatkanlah dia dan maafkanlah dia. Muliakanlah tempatnya dan lapangkanlah kuburnya. Basuhlah dia dengan air, salju, dan air yang sejuk. Bersihkanlah dia dari segala kesalahan sebagaimana Engkau membersihkan pakaian putih dari kotoran. Gantilah rumahnya di dunia dengan rumah yang lebih baik di akhirat, keluarganya dengan keluarga yang lebih baik, dan pasangannya dengan pasangan yang lebih baik. Masukkanlah dia ke dalam surga-Mu dan lindungilah dia dari siksa kubur atau siksa api neraka.",
+        "catatan": "HR. Muslim",
+        "keterangan": "Kata ganti لَهُ (lahu) digunakan untuk jenazah laki-laki satu orang."
+      },
+      {
+        "id": "sholat-jenazah-perempuan",
+        "sumber": "Jenazah perempuan",
+        "arab": "اللَّهُمَّ اغْفِرْ لَهَا وَارْحَمْهَا وَعَافِهَا وَاعْفُ عَنْهَا، وَأَكْرِمْ نُزُلَهَا وَوَسِّعْ مُدْخَلَهَا، وَاغْسِلْهَا بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهَا مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهَا دَارًا خَيْرًا مِنْ دَارِهَا، وَأَهْلًا خَيْرًا مِنْ أَهْلِهَا، وَزَوْجًا خَيْرًا مِنْ زَوْجِهَا، وَأَدْخِلْهَا الْجَنَّةَ وَأَعِذْهَا مِنْ عَذَابِ الْقَبْرِ أَوْ مِنْ عَذَابِ النَّارِ",
+        "latin": "Allāhummaghfir lahā warhamhā wa 'āfihā wa'fu 'anhā, wa akrim nuzulahā wa wassi' mudkhalahā, waghsilhā bil-mā'i wats-tsalji wal-baradi, wa naqqihā minal-khathāyā kamā naqqaitats-tsaubal-abyadha minad-danasi, wa abdilhā dāran khairan min dārihā, wa ahlan khairan min ahlihā, wa zaujan khairan min zaujihā, wa adkhilhal-jannata wa a'idzhā min 'adzābil-qabri au min 'adzābin-nār.",
+        "artinya": "Ya Allah, ampunilah dia, sayangilah dia, selamatkanlah dia dan maafkanlah dia. Muliakanlah tempatnya dan lapangkanlah kuburnya. Basuhlah dia dengan air, salju, dan air yang sejuk. Bersihkanlah dia dari segala kesalahan sebagaimana Engkau membersihkan pakaian putih dari kotoran. Gantilah rumahnya di dunia dengan rumah yang lebih baik di akhirat, keluarganya dengan keluarga yang lebih baik, dan pasangannya dengan pasangan yang lebih baik. Masukkanlah dia ke dalam surga-Mu dan lindungilah dia dari siksa kubur atau siksa api neraka.",
+        "catatan": "HR. Muslim",
+        "keterangan": "Kata ganti لَهَا (lahā) digunakan untuk jenazah perempuan satu orang."
+      },
+      {
+        "id": "sholat-jenazah-dua",
+        "sumber": "Jenazah dua orang",
+        "arab": "اللَّهُمَّ اغْفِرْ لَهُمَا وَارْحَمْهُمَا وَعَافِهِمَا وَاعْفُ عَنْهُمَا...",
+        "latin": "Allāhummaghfir lahumā warhamhumā wa 'āfihimā wa'fu 'anhumā...",
+        "artinya": "Ya Allah, ampunilah keduanya, sayangilah keduanya, selamatkanlah keduanya dan maafkanlah keduanya... (lanjutkan seperti doa utama dengan kata ganti dua orang)",
+        "catatan": "HR. Muslim",
+        "keterangan": "Kata ganti لَهُمَا (lahumā) digunakan apabila jenazahnya dua orang. Seluruh kata ganti pada lanjutan doa disesuaikan menjadi bentuk tatsniyah (dua orang)."
+      },
+      {
+        "id": "sholat-jenazah-jamak",
+        "sumber": "Jenazah lebih dari dua",
+        "arab": "اللَّهُمَّ اغْفِرْ لَهُمْ وَارْحَمْهُمْ وَعَافِهِمْ وَاعْفُ عَنْهُمْ...",
+        "latin": "Allāhummaghfir lahum warhamhum wa 'āfihim wa'fu 'anhum...",
+        "artinya": "Ya Allah, ampunilah mereka, sayangilah mereka, selamatkanlah mereka dan maafkanlah mereka... (lanjutkan seperti doa utama dengan kata ganti jamak)",
+        "catatan": "HR. Muslim",
+        "keterangan": "Kata ganti لَهُمْ (lahum) digunakan apabila jenazahnya lebih dari dua orang. Seluruh kata ganti pada lanjutan doa disesuaikan menjadi bentuk jamak."
+      }
+    ]
   }
 ]

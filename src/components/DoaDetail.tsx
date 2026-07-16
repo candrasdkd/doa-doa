@@ -13,6 +13,7 @@ export function DoaDetail({ doa, isFavorite, onBack, onToggleFavorite }: Props) 
   const [activeVersion, setActiveVersion] = useState(0);
   const version = doa.versions[activeVersion];
   const hasMultipleVersions = doa.versions.length > 1;
+  const isEmpty = doa.versions.length === 0;
 
   return (
     <>
@@ -48,7 +49,16 @@ export function DoaDetail({ doa, isFavorite, onBack, onToggleFavorite }: Props) 
         <h1 className="detail-judul">{doa.judul}</h1>
         {doa.konteks && <p className="detail-konteks">{doa.konteks}</p>}
 
-        {hasMultipleVersions && (
+        {/* Belum ada data versi */}
+        {isEmpty && (
+          <div className="versions-empty">
+            <span className="versions-empty-icon">🚧</span>
+            <p className="versions-empty-text">Konten doa ini belum tersedia.</p>
+            <p className="versions-empty-sub">Sedang dalam proses penambahan data.</p>
+          </div>
+        )}
+
+        {!isEmpty && hasMultipleVersions && (
           <div className="version-tabs" role="tablist" aria-label="Pilih versi bacaan">
             {doa.versions.map((v, i) => (
               <button
@@ -64,6 +74,7 @@ export function DoaDetail({ doa, isFavorite, onBack, onToggleFavorite }: Props) 
           </div>
         )}
 
+        {!isEmpty && version && (
         <div className="version-panel" key={version.id}>
           {!hasMultipleVersions && (
             <span className="version-sumber-solo">{version.sumber}</span>
@@ -95,8 +106,21 @@ export function DoaDetail({ doa, isFavorite, onBack, onToggleFavorite }: Props) 
                 <p className="catatan-text">{version.catatan}</p>
               </div>
             )}
+
+            {version.keterangan && (
+              <div className="keterangan-block">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" style={{ flexShrink: 0, marginTop: 2, opacity: 0.7 }}>
+                  <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" stroke="var(--keterangan-color)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+                <div>
+                  <span className="keterangan-label">Keterangan</span>
+                  <p className="keterangan-text">{version.keterangan}</p>
+                </div>
+              </div>
+            )}
           </div>
         </div>
+        )}
       </div>
     </>
   );
