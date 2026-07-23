@@ -59,10 +59,14 @@ function App() {
   }, [query, category, showFavoritesOnly, favorites]);
 
   const selectedDoa = selectedId ? doaData.find((d) => d.id === selectedId) ?? null : null;
+  const resetFilters = () => {
+    setQuery('');
+    setCategory(null);
+    setShowFavoritesOnly(false);
+  };
 
   return (
     <div className={`app-shell ${selectedId ? 'detail-open' : ''}`}>
-      {/* ── SIDEBAR / LIST ── */}
       <aside className="app-sidebar">
         <div className="app-sidebar-header">
           <div className="app-header-brand">
@@ -70,47 +74,54 @@ function App() {
               <span className="app-logo-text">دعاء</span>
             </div>
             <div className="app-brand-info">
-              <h1 className="app-title">Kumpulan Doa</h1>
-              <p className="app-subtitle">Doa harian, offline kapan saja</p>
-            </div>
-            <div className="app-header-actions">
-              <button
-                className={`favorite-filter-btn ${showFavoritesOnly ? 'favorite-filter-active' : ''}`}
-                onClick={() => setShowFavoritesOnly((s) => !s)}
-                aria-pressed={showFavoritesOnly}
-                aria-label="Tampilkan favorit saja"
-                title="Filter favorit"
-              >
-                <svg width="18" height="18" viewBox="0 0 24 24" fill={showFavoritesOnly ? 'var(--accent)' : 'none'}>
-                  <path
-                    d="M12 17.3l-5.4 3.2 1.4-6.1L3 10l6.2-.5L12 3.7l2.8 5.8L21 10l-5 4.4 1.4 6.1z"
-                    stroke={showFavoritesOnly ? 'var(--accent)' : 'var(--ink-faint)'}
-                    strokeWidth="1.5"
-                    strokeLinejoin="round"
-                  />
-                </svg>
-              </button>
+              <h1 className="app-title">Saku Doa</h1>
+              <p className="app-subtitle">Teman ibadah harian</p>
             </div>
           </div>
 
+          <div className="app-intro">
+            <span className="app-intro-arabic" lang="ar" dir="rtl">بِسْمِ اللَّهِ</span>
+            <h2>Jadikan doa teman di setiap langkah.</h2>
+            <p>Temukan bacaan yang tepat, kapan pun dibutuhkan.</p>
+          </div>
+
           <SearchBar value={query} onChange={setQuery} />
-          <CategoryModal categories={categories} active={category} onSelect={setCategory} />
+          <div className="filter-row">
+            <CategoryModal categories={categories} active={category} onSelect={setCategory} />
+            <button
+              className={`favorite-filter-btn ${showFavoritesOnly ? 'favorite-filter-active' : ''}`}
+              onClick={() => setShowFavoritesOnly((s) => !s)}
+              aria-pressed={showFavoritesOnly}
+              aria-label="Tampilkan doa favorit saja"
+              title="Filter favorit"
+            >
+              <svg width="17" height="17" viewBox="0 0 24 24" fill={showFavoritesOnly ? 'currentColor' : 'none'} aria-hidden="true">
+                <path
+                  d="M12 17.3l-5.4 3.2 1.4-6.1L3 10l6.2-.5L12 3.7l2.8 5.8L21 10l-5 4.4 1.4 6.1z"
+                  stroke="currentColor"
+                  strokeWidth="1.6"
+                  strokeLinejoin="round"
+                />
+              </svg>
+              <span>Favorit</span>
+              {favorites.length > 0 && <span className="favorite-count">{favorites.length}</span>}
+            </button>
+          </div>
         </div>
 
         <div className="doa-list-scroll" role="list" aria-label="Daftar doa">
           {filtered.length === 0 ? (
             <div className="empty-state">
-              <div className="empty-state-icon">🔍</div>
-              <p style={{ margin: 0, fontWeight: 600 }}>Tidak ada hasil</p>
-              <p className="empty-state-sub">Coba kata kunci lain atau ubah filter kategori.</p>
+              <div className="empty-state-icon" aria-hidden="true"><span /></div>
+              <h3>Tidak ada doa ditemukan</h3>
+              <p>Coba kata kunci lain atau hapus filter yang aktif.</p>
+              <button className="empty-state-action" onClick={resetFilters}>Atur ulang pencarian</button>
             </div>
           ) : (
             <>
               <div className="stats-row">
-                <span className="stat-pill">
-                  <span className="stat-count">{filtered.length}</span>
-                  {filtered.length === 1 ? ' doa' : ' doa'}
-                </span>
+                <p><strong>{filtered.length}</strong> doa ditemukan</p>
+                <span>{category ?? (showFavoritesOnly ? 'Tersimpan' : 'Semua kategori')}</span>
               </div>
               {filtered.map((doa) => (
                 <DoaCard
@@ -127,11 +138,11 @@ function App() {
         </div>
       </aside>
 
-      {/* ── DETAIL PANEL ── */}
       <main className="app-main">
         {selectedDoa ? (
           <div className="doa-detail-wrapper">
             <DoaDetail
+              key={selectedDoa.id}
               doa={selectedDoa}
               isFavorite={isFavorite(selectedDoa.id)}
               onBack={closeDoa}
@@ -140,9 +151,19 @@ function App() {
           </div>
         ) : (
           <div className="detail-empty">
-            <div className="detail-empty-icon">🕌</div>
-            <h2 className="detail-empty-title">Pilih Doa</h2>
-            <p className="detail-empty-sub">Klik salah satu doa di sebelah kiri<br />untuk membaca bacaannya.</p>
+            <div className="detail-empty-card">
+              <div className="detail-empty-mark" aria-hidden="true"><span>د</span></div>
+              <span className="detail-empty-eyebrow">Ruang baca</span>
+              <h2 className="detail-empty-title">Luangkan sejenak untuk mendekat.</h2>
+              <p className="detail-empty-sub">
+                Pilih salah satu doa dari daftar untuk membaca teks Arab, latin, dan artinya dengan nyaman.
+              </p>
+              <div className="detail-empty-stats" aria-label="Ringkasan koleksi">
+                <div><strong>{doaData.length}</strong><span>bacaan doa</span></div>
+                <div><strong>{categories.length}</strong><span>kategori</span></div>
+                <div><strong>100%</strong><span>bisa offline</span></div>
+              </div>
+            </div>
           </div>
         )}
       </main>

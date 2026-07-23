@@ -10,22 +10,25 @@ interface Props {
 
 export function DoaCard({ doa, isFavorite, isSelected = false, onOpen, onToggleFavorite }: Props) {
   return (
-    <div
+    <article
       className={`doa-card ${isSelected ? 'doa-card-selected' : ''}`}
-      onClick={() => onOpen(doa.id)}
-      role="listitem button"
-      tabIndex={0}
-      onKeyDown={(e) => (e.key === 'Enter' || e.key === ' ') && onOpen(doa.id)}
+      role="listitem"
       aria-current={isSelected ? 'true' : undefined}
     >
-      <div className="doa-card-main">
-        <span className="doa-card-kategori">{doa.kategori}</span>
-        <h3 className="doa-card-judul">{doa.judul}</h3>
-        {doa.konteks && <p className="doa-card-konteks">{doa.konteks}</p>}
-        <span className="doa-card-versi">
-          {doa.versions.length} versi bacaan
+      <button className="doa-card-open" onClick={() => onOpen(doa.id)}>
+        <span className="doa-card-monogram" aria-hidden="true">
+          {doa.kategori.charAt(0)}
         </span>
-      </div>
+        <span className="doa-card-main">
+          <span className="doa-card-kategori">{doa.kategori}</span>
+          <span className="doa-card-judul">{doa.judul}</span>
+          {doa.konteks && <span className="doa-card-konteks">{doa.konteks}</span>}
+          <span className="doa-card-versi">
+            {doa.versions.length} versi bacaan
+          </span>
+        </span>
+        <span className="doa-card-arrow" aria-hidden="true">→</span>
+      </button>
       <button
         className={`favorite-btn ${isFavorite ? 'favorite-active' : ''}`}
         onClick={(e) => {
@@ -44,6 +47,6 @@ export function DoaCard({ doa, isFavorite, isSelected = false, onOpen, onToggleF
           />
         </svg>
       </button>
-    </div>
+    </article>
   );
 }

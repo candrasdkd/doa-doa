@@ -13,7 +13,7 @@ export function SearchBar({ value, onChange }: Props) {
       <input
         type="search"
         inputMode="search"
-        placeholder="Cari doa, mis. sebelum makan..."
+        placeholder="Cari doa atau momen..."
         value={value}
         onChange={(e) => onChange(e.target.value)}
         aria-label="Cari doa"

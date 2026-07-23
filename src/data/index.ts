@@ -9,31 +9,25 @@
  */
 
 import makanMinum from './makan-minum.json';
-import tidur from './tidur.json';
 import rumah from './rumah.json';
 import perjalanan from './perjalanan.json';
-import masjid from './masjid.json';
 import kamarMandi from './kamar-mandi.json';
-import aktivitasHarian from './aktivitas-harian.json';
 import adabAkhlak from './adab-akhlak.json';
 import keluarga from './keluarga.json';
-import majelis from './majelis.json';
 import jenazah from './jenazah.json';
+import sakit from './sakit.json';
 
 import type { DoaData } from '../types';
 
 const allDoa: DoaData = [
   ...makanMinum,
-  ...tidur,
   ...rumah,
   ...perjalanan,
-  ...masjid,
   ...kamarMandi,
-  ...aktivitasHarian,
   ...adabAkhlak,
   ...keluarga,
-  ...majelis,
   ...jenazah,
+  ...sakit,
 ] as DoaData;
 
 export default allDoa;

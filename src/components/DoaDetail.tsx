@@ -17,7 +17,6 @@ export function DoaDetail({ doa, isFavorite, onBack, onToggleFavorite }: Props) 
 
   return (
     <>
-      {/* Top bar */}
       <div className="detail-topbar">
         <button className="back-btn" onClick={onBack} aria-label="Kembali ke daftar">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
@@ -25,6 +24,7 @@ export function DoaDetail({ doa, isFavorite, onBack, onToggleFavorite }: Props) 
           </svg>
           Kembali
         </button>
+        <span className="detail-topbar-label">Bacaan doa</span>
         <button
           className={`favorite-btn ${isFavorite ? 'favorite-active' : ''}`}
           onClick={() => onToggleFavorite(doa.id)}
@@ -43,16 +43,19 @@ export function DoaDetail({ doa, isFavorite, onBack, onToggleFavorite }: Props) 
         </button>
       </div>
 
-      {/* Scrollable content */}
       <div className="doa-detail">
-        <span className="detail-kategori-badge">{doa.kategori}</span>
-        <h1 className="detail-judul">{doa.judul}</h1>
-        {doa.konteks && <p className="detail-konteks">{doa.konteks}</p>}
+        <header className="detail-heading">
+          <div className="detail-heading-meta">
+            <span className="detail-kategori-badge">{doa.kategori}</span>
+            <span className="detail-version-count">{doa.versions.length} versi bacaan</span>
+          </div>
+          <h1 className="detail-judul">{doa.judul}</h1>
+          {doa.konteks && <p className="detail-konteks">{doa.konteks}</p>}
+        </header>
 
-        {/* Belum ada data versi */}
         {isEmpty && (
           <div className="versions-empty">
-            <span className="versions-empty-icon">🚧</span>
+            <span className="versions-empty-icon" aria-hidden="true">…</span>
             <p className="versions-empty-text">Konten doa ini belum tersedia.</p>
             <p className="versions-empty-sub">Sedang dalam proses penambahan data.</p>
           </div>
@@ -81,6 +84,7 @@ export function DoaDetail({ doa, isFavorite, onBack, onToggleFavorite }: Props) 
           )}
 
           <div className="arab-block">
+            <span className="arab-block-label">Teks Arab</span>
             <p className="arab-text" lang="ar" dir="rtl">{version.arab}</p>
           </div>
 
