@@ -35,5 +35,69 @@
         "artinya": "Aku berlindung kepada Allah dari setan yang terkutuk."
       }
     ]
+  },
+  {
+    "id": "masuk-pasar",
+    "judul": "Doa Masuk Pasar",
+    "kategori": "Adab & Akhlak",
+    "konteks": "Dibaca ketika memasuki pasar atau pusat perbelanjaan",
+    "versions": [
+      {
+        "id": "masuk-pasar-v1",
+        "sumber": "HR. Tirmidzi no. 3428",
+        "arab": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لَا يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "latin": "Laa ilaaha illallaahu wahdahu laa syariika lah, lahul mulku wa lahul hamdu yuhyii wa yumiitu wa huwa hayyun laa yamuutu biyadihil khairu wa huwa 'alaa kulli syai-in qadiir",
+        "artinya": "Tidak ada tuhan yang berhak disembah kecuali Allah semata, tidak ada sekutu bagi-Nya. Milik-Nya semua kerajaan dan bagi-Nya seluruh pujian. Dia Yang menghidupkan dan mematikan, Dia Maha Hidup dan tidak akan mati. Di tangan-Nya segala kebaikan, dan Dia Maha Mampu melakukan segala sesuatu.",
+        "keterangan": "Allah mencatat baginya satu juta kebaikan, dan menghapus darinya satu juta kesalahan, serta mengangkat untuknya satu juta derajat.",
+        "catatan": "Ghariib - Hasan (Al-Albani)"
+      }
+    ]
+  },
+  {
+    "id": "ketika-terkena-musibah",
+    "judul": "Doa Ketika Tertimpa Musibah",
+    "kategori": "Adab & Akhlak",
+    "konteks": "Dibaca saat tertimpa ujian atau musibah",
+    "versions": [
+      {
+        "id": "ketika-terkena-musibah-v1",
+        "sumber": "HR. Muslim no. 918",
+        "arab": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي وَأَخْلِفْ لِي خَيْرًا مِنْهَا",
+        "latin": "Innaa lillaahi wa innaa ilaihi raaji'uun, allahumma'-jurnii fii mushiibatii wa akhlif lii khairan minhaa",
+        "artinya": "Sesungguhnya kami adalah milik Allah dan kepada-Nya kami akan kembali. Ya Allah, berilah aku pahala dalam musibahku ini dan gantikanlah bagiku dengan yang lebih baik daripadanya."
+      }
+    ]
+  },
+  {
+    "id": "ketika-mendengar-petir",
+    "judul": "Doa Ketika Mendengar Petir",
+    "kategori": "Adab & Akhlak",
+    "konteks": "Dibaca saat mendengar suara guruh atau petir",
+    "versions": [
+      {
+        "id": "ketika-mendengar-petir-v1",
+        "sumber": "HR. Tirmidzi no. 3450",
+        "arab": "اللَّهُمَّ لَا تَقْتُلْنَا بِغَضَبِكَ وَلَا تُهْلِكْنَا بِعَذَابِكَ وَعَافِنَا قَبْلَ ذَلِكَ",
+        "latin": "Allahumma laa taqtulnaa bighadhabika wa laa tuhliknaa bi'adzaabika wa 'aafinaa qabla dzaalik",
+        "artinya": "Ya Allah, janganlah Engkau bunuh kami dengan kemarahan-Mu, dan janganlah Engkau binasakan kami dengan azab-Mu, dan ampunilah kami sebelum itu.",
+        "catatan": "Ghariib - Dha'if (Al-Albani)"
+      }
+    ]
+  },
+  {
+    "id": "berlindung-keburukan-anggota-badan",
+    "judul": "Doa Perlindungan dari Keburukan Anggota Badan",
+    "kategori": "Adab & Akhlak",
+    "konteks": "Dibaca untuk memohon perlindungan dari keburukan pendengaran, penglihatan, lisan, hati, dan kemaluan",
+    "versions": [
+      {
+        "id": "berlindung-keburukan-anggota-badan-v1",
+        "sumber": "HR. Tirmidzi no. 3492",
+        "arab": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ سَمْعِي وَمِنْ شَرِّ بَصَرِي وَمِنْ شَرِّ لِسَانِي وَمِنْ شَرِّ قَلْبِي وَمِنْ شَرِّ مَنِيِّي",
+        "latin": "Allahumma innii a'uudzu bika min syarri sam'ii, wa min syarri basharii, wa min syarri lisaanii, wa min syarri qalbii, wa min syarri maniyyii",
+        "artinya": "Ya Allah, aku berlindung kepada-Mu dari keburukan telingaku, dari keburukan mataku, dari keburukan lisanku, dari keburukan hatiku, dan dari keburukan kemaluanku.",
+        "catatan": "Hasan Ghariib - Shahih (Al-Albani)"
+      }
+    ]
   }
 ]

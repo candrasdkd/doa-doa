@@ -16,6 +16,7 @@ import adabAkhlak from './adab-akhlak.json';
 import keluarga from './keluarga.json';
 import jenazah from './jenazah.json';
 import sakit from './sakit.json';
+import sholat from './sholat.json';
 
 import type { DoaData } from '../types';
 
@@ -28,6 +29,7 @@ const allDoa: DoaData = [
   ...keluarga,
   ...jenazah,
   ...sakit,
+  ...sholat,
 ] as DoaData;
 
 export default allDoa;

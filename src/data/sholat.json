@@ -1,0 +1,65 @@
+[
+  {
+    "id": "setelah-adzan",
+    "judul": "Doa Setelah Adzan",
+    "kategori": "Sholat & Adzan",
+    "konteks": "Dibaca setelah mendengarkan kumandang adzan",
+    "versions": [
+      {
+        "id": "setelah-adzan-v1",
+        "sumber": "HR. Bukhari no. 614",
+        "arab": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلَاةِ الْقَائِمَةِ آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+        "latin": "Allahumma rabba haadzihid da'watit tammah washshalaatil qaa'imah, aati Muhammadanil wasiilata wal fadhiilah, wab'atshu maqaamam mahmuudanil ladzii wa'adtah",
+        "artinya": "Ya Allah, Rabb Pemilik seruan yang sempurna ini, dan Pemilik shalat yang akan didirikan ini, berikanlah wasilah (perantara) dan keutamaan kepada Muhammad. Bangkitkanlah beliau pada kedudukan yang terpuji sebagaimana Engkau telah janjikan."
+      }
+    ]
+  },
+  {
+    "id": "masuk-masjid",
+    "judul": "Doa Masuk Masjid",
+    "kategori": "Sholat & Adzan",
+    "konteks": "Dibaca ketika melangkah masuk ke dalam masjid",
+    "versions": [
+      {
+        "id": "masuk-masjid-v1",
+        "sumber": "HR. Ibnu Majah no. 771",
+        "arab": "بِسْمِ اللَّهِ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+        "latin": "Bismillahi wassalamu 'ala rasulillahi, allahummaghfir lii dzunuubii waftah lii abwaaba rahmatik",
+        "artinya": "Dengan menyebut nama Allah dan keselamatan semoga tetap atas Rasulullah. Ya Allah, ampunilah dosa-dosaku dan bukakanlah pintu-pintu rahmat-Mu untukku.",
+        "catatan": "Shahih (Al-Albani)"
+      }
+    ]
+  },
+  {
+    "id": "keluar-masjid",
+    "judul": "Doa Keluar Masjid",
+    "kategori": "Sholat & Adzan",
+    "konteks": "Dibaca ketika melangkah keluar dari masjid",
+    "versions": [
+      {
+        "id": "keluar-masjid-v1",
+        "sumber": "HR. Ibnu Majah no. 771",
+        "arab": "بِسْمِ اللَّهِ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ اللَّهُمَّ اغْفِرْ لِي ذُنُوبِي وَافْتَحْ لِي أَبْوَابَ فَضْلِكَ",
+        "latin": "Bismillahi wassalamu 'ala rasulillahi, allahummaghfir lii dzunuubii waftah lii abwaaba fadlik",
+        "artinya": "Dengan menyebut nama Allah dan keselamatan semoga tetap atas Rasulullah. Ya Allah, ampunilah dosa-dosaku dan bukakanlah pintu-pintu karunia-Mu untukku.",
+        "catatan": "Shahih (Al-Albani)"
+      }
+    ]
+  },
+  {
+    "id": "sujud-quran",
+    "judul": "Doa Sujud Quran (Sujud Tilawah)",
+    "kategori": "Sholat & Adzan",
+    "konteks": "Dibaca ketika menemui atau membaca ayat sujud dalam Al-Qur'an",
+    "versions": [
+      {
+        "id": "sujud-quran-v1",
+        "sumber": "HR. Tirmidzi no. 3425",
+        "arab": "سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ",
+        "latin": "Sajada wajhiya lilladzii khalaqahuu wa syaqqa sam'ahuu wa basharahuu bihaulihuu wa quwwatih",
+        "artinya": "Wajahku bersujud kepada Dzat yang telah menciptakannya dan membuka pendengaran serta penglihatannya dengan daya dan kekuatan-Nya.",
+        "catatan": "Hasan Shahih (Al-Albani)"
+      }
+    ]
+  }
+]
