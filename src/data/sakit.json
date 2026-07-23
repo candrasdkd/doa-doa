@@ -1,102 +1,108 @@
 [
   {
-    "id": "membaca-surah-perlindungan",
-    "judul": "Membaca Surah Perlindungan",
+    "id": "dzikir-doa-ketika-sakit",
+    "judul": "Dzikir & Doa Ketika Sakit",
     "kategori": "Ketika Sakit",
-    "konteks": "Ditiupkan ke telapak tangan kemudian diusapkan ke wajah atau bagian tubuh yang sakit",
+    "konteks": "Bacaan dzikir dan doa yang diajarkan Rasulullah ﷺ saat merasakan sakit",
     "versions": [
       {
-        "id": "membaca-surah-perlindungan-v1",
+        "id": "dzikir-doa-sakit-v1",
         "sumber": "HR. Bukhari",
-        "arab": "قُلْ هُوَ اللّٰهُ أَحَدٌ ... قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ... قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
-        "latin": "Membaca Surah Al-Ikhlas, Al-Falaq, dan An-Nas",
-        "artinya": "Membaca Tiga Surah Perlindungan (Al-Ikhlas, Al-Falaq, An-Nas).",
-        "catatan": "Ditiupkan ke telapak tangan kemudian diusapkan ke wajah atau bagian tubuh yang sakit."
-      }
-    ]
-  },
-  {
-    "id": "doa-ketika-sakit-bismillah",
-    "judul": "Doa Ketika Sakit (Basmalah)",
-    "kategori": "Ketika Sakit",
-    "konteks": "Dibaca sebanyak 3 kali saat bagian tubuh terasa sakit",
-    "versions": [
+        "arab": "قُلْ هُوَ اللَّهُ أَحَدٌ ... ۝ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ... ۝ قُلْ أَعُوذُ بِرَبِّ النَّاسِ ...",
+        "latin": "Surah An-Nas, Surah Al-Falaq, Surah Al-Ikhlas",
+        "artinya": "Membaca Surah An-Nas, Surah Al-Falaq, dan Surah Al-Ikhlas.",
+        "catatan": "Lalu meniup di telapak tangan, kemudian diusapkan di wajah atau bagian tubuh yang sakit."
+      },
       {
-        "id": "doa-ketika-sakit-bismillah-v1",
-        "sumber": "Umum",
-        "arab": "بِسْمِ اللَّهِ (٣×)",
-        "latin": "Bismillah (3x)",
-        "artinya": "Dengan menyebut nama Allah.",
-        "catatan": "Dibaca sebanyak 3 kali."
-      }
-    ]
-  },
-  {
-    "id": "doa-ketika-sakit-audzu-billah",
-    "judul": "Doa Ketika Sakit (Mohon Perlindungan)",
-    "kategori": "Ketika Sakit",
-    "konteks": "Letakkan tangan pada bagian tubuh yang sakit dan dibaca sebanyak 7 kali",
-    "versions": [
-      {
-        "id": "doa-ketika-sakit-audzu-billah-v1",
+        "id": "dzikir-doa-sakit-v2",
         "sumber": "HR. Muslim",
-        "arab": "أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ (٧×)",
-        "latin": "A'udzu billahi wa qudratihi min syarri ma ajidu wa uhadzir. (7x)",
-        "artinya": "Aku berlindung kepada Allah dan kekuasaan-Nya dari keburukan yang aku rasakan dan aku khawatirkan.",
-        "catatan": "Letakkan tangan pada bagian tubuh yang sakit."
-      }
-    ]
-  },
-  {
-    "id": "dzikir-ketika-sakit",
-    "judul": "Dzikir Ketika Sakit",
-    "kategori": "Ketika Sakit",
-    "konteks": "Dibaca ketika sedang sakit",
-    "versions": [
+        "arab": "بِسْمِ اللَّهِ (٣×)\n\nأَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ (٧×)",
+        "latin": "Bismillāh (3x)\n\nA‘ūdzu billāhi wa qudratihi min syarri mā ajidu wa uḥādziru (7x)",
+        "artinya": "Dengan menyebut nama Allah, aku berlindung dengan penjagaan Allah dan kekuatan-Nya dari jeleknya apa-apa yang saya rasakan dan yang saya takutkan.",
+        "catatan": "Sambil meletakkan telapak tangan pada bagian tubuh yang sakit."
+      },
       {
-        "id": "dzikir-ketika-sakit-v1",
+        "id": "dzikir-doa-sakit-v3",
         "sumber": "HR. Tirmidzi",
-        "arab": "لَا إِلٰهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ، لَا إِلٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَا إِلٰهَ إِلَّا اللَّهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، لَا إِلٰهَ إِلَّا اللَّهُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
-        "latin": "La ilaha illallah wallahu akbar... wa la haula wa la quwwata illa billah.",
-        "artinya": "Tidak ada Tuhan selain Allah. Allah Maha Besar.... Tidak ada daya dan kekuatan kecuali dengan pertolongan Allah."
-      }
-    ]
-  },
-  {
-    "id": "doa-nabi-yunus-sakit",
-    "judul": "Doa Nabi Yunus",
-    "kategori": "Ketika Sakit",
-    "konteks": "Dibaca sebanyak 40 kali ketika sedang sakit",
-    "versions": [
+        "arab": "لَا إِلٰهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ، لَا إِلٰهَ إِلَّا اللَّهُ وَحْدَهُ، لَا إِلٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَا إِلٰهَ إِلَّا اللَّهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، لَا إِلٰهَ إِلَّا اللَّهُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "latin": "Lā ilāha illallāhu wallāhu akbar. Lā ilāha illallāhu waḥdah. Lā ilāha illallāhu waḥdahu lā syarīka lah. Lā ilāha illallāhu lahul-mulku wa lahul-ḥamd. Lā ilāha illallāhu wa lā ḥaula wa lā quwwata illā billāh.",
+        "artinya": "Tidak ada tuhan yang berhak disembah kecuali Allah, Allah Maha Besar. Tidak ada tuhan yang berhak disembah kecuali Allah Yang Maha Esa. Tidak ada tuhan yang berhak disembah kecuali Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Tidak ada tuhan yang berhak disembah kecuali Allah, bagi-Nya kekuasaan dan segala puji. Tidak ada tuhan yang berhak disembah kecuali Allah, tidak ada daya untuk menjauhi kemaksiatan dan kekuatan untuk melaksanakan ketaatan kecuali dengan penjagaan dan pertolongan Allah."
+      },
       {
-        "id": "doa-nabi-yunus-sakit-v1",
+        "id": "dzikir-doa-sakit-v4",
         "sumber": "HR. Hakim",
         "arab": "لَا إِلٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ (٤٠×)",
-        "latin": "La ilaha illa anta subhanaka inni kuntu minazh-zhalimin. (40x)",
-        "artinya": "Tidak ada Tuhan selain Engkau. Maha Suci Engkau. Sesungguhnya aku termasuk orang-orang yang zalim.",
-        "catatan": "Dibaca sebanyak 40 kali."
+        "latin": "Lā ilāha illā anta subḥānaka innī kuntu minazh-zhālimīn (40x)",
+        "artinya": "Tidak ada tuhan yang berhak disembah kecuali Engkau. Maha Suci Engkau. Sesungguhnya aku tergolong orang-orang yang berbuat kedhaliman.",
+        "catatan": "Dibaca sebanyak 40 kali saat sakit."
+      },
+      {
+        "id": "dzikir-doa-sakit-v5",
+        "sumber": "HR. Abu Dawud",
+        "arab": "رَبَّنَا اللَّهُ الَّذِي فِي السَّمَاءِ، تَقَدَّسَ اسْمُكَ، أَمْرُكَ فِي السَّمَاءِ وَالْأَرْضِ، كَمَا رَحْمَتُكَ فِي السَّمَاءِ فَاجْعَلْ رَحْمَتَكَ فِي الْأَرْضِ، اغْفِرْ لَنَا حُوبَنَا وَخَطَايَانَا، أَنْتَ رَبُّ الطَّيِّبِينَ، أَنْزِلْ رَحْمَةً مِنْ رَحْمَتِكَ، وَشِفَاءً مِنْ شِفَائِكَ عَلَى هَذَا الْوَجَعِ فَيَبْرَأَ",
+        "latin": "Rabbanallāhul-ladzī fis-samā’i, taqaddasa ismuka, amruka fis-samā’i wal-arḍi, kamā raḥmatuka fis-samā’i faj‘al raḥmataka fil-arḍi, ighfir lanā ḥūbanā wa khaṭāyānā, anta Rabbuth-thayyibīna, anzil raḥmatan min raḥmatika, wa syifā’an min syifā’ika ‘alā hādzal-waja‘i fayabra’a.",
+        "artinya": "Wahai Tuhan kami, Allah yang ada di langit di atas, Maha Suci nama-Mu, perkara-Mu di dalam langit dan bumi, sebagaimana rahmat-Mu di dalam langit maka jadikanlah rahmat-Mu di dalam bumi, ampunilah dosa dan kesalahan kami, Engkau Tuhannya orang-orang yang baik, turunkanlah rahmat dari rahmat-rahmat-Mu dan kesembuhan dari kesembuhan-kesembuhan-Mu atas penyakit ini hingga sembuh."
       }
     ]
   },
   {
-    "id": "doa-memohon-kesembuhan",
-    "judul": "Doa Memohon Kesembuhan",
-    "kategori": "Ketika Sakit",
-    "konteks": "Dibaca untuk memohon kesembuhan dari penyakit",
+    "id": "mendoakan-orang-sakit",
+    "judul": "Doa Mendoakan Orang Sakit",
+    "kategori": "Mendoakan Orang Sakit",
+    "konteks": "Doa-doa yang dibaca saat menjenguk atau mendoakan kesembuhan orang yang sakit",
     "versions": [
       {
-        "id": "doa-memohon-kesembuhan-v1",
+        "id": "mendoakan-orang-sakit-v1",
+        "sumber": "HR. Bukhari",
+        "arab": "بِسْمِ اللَّهِ تُرْبَةُ أَرْضِنَا بِرِيقَةِ بَعْضِنَا يُشْفَى سَقِيمُنَا بِإِذْنِ رَبِّنَا",
+        "latin": "Bismillāhi turbatu arḍinā birīqati ba‘ḍinā, yusyfā saqīmunā bi idzni rabbinā.",
+        "artinya": "Dengan nama Allah, debu tanah kami dengan ludah sebagian kami, semoga orang yang sakit dari kami segera sembuh dengan izin Tuhan kami.",
+        "catatan": "Kemudian mengambil air ludahnya dengan jarinya, lalu ditempelkan di tanah, kemudian diusapkan pada bagian tubuh yang sakit."
+      },
+      {
+        "id": "mendoakan-orang-sakit-v2",
+        "sumber": "HR. Bukhari",
+        "arab": "أَذْهِبِ الْبَأْسَ رَبَّ النَّاسِ، اشْفِ ... وَأَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+        "latin": "Adzhibil-ba'sa Rabban-nās, isyfi ... wa antasy-Syāfī, lā syifā'a illā syifā'uka, syifā'an lā yugādiru saqaman.",
+        "artinya": "Hilangkanlah penyakit wahai Tuhan manusia, sembuhkanlah ... (disebut nama orang yang sakit). Dan Engkau Dzat Yang Maha Menyembuhkan, tidak ada kesembuhan kecuali kesembuhan dari-Mu, yaitu kesembuhan yang tidak meninggalkan penyakit.",
+        "catatan": "Sebutkan nama orang yang sakit pada bagian titik-titik."
+      },
+      {
+        "id": "mendoakan-orang-sakit-v3",
         "sumber": "HR. Abu Dawud",
-        "arab": "رَبَّنَا اللَّهُ الَّذِي فِي السَّمَاءِ تَقَدَّسَ اسْمُكَ ...",
-        "latin": "Rabbanallahu alladzi fis-sama'...",
-        "artinya": "Wahai Tuhan kami yang di langit, Maha Suci nama-Mu... turunkanlah rahmat dan kesembuhan-Mu atas penyakit ini."
+        "arab": "أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ (٧×)",
+        "latin": "As'alullāhal-‘Aẓīma Rabbal-‘Arsyil-‘Aẓīmi an yasyfiyaka (7x)",
+        "artinya": "Aku memohon kepada Allah, Tuhan Arsy yang agung agar Dia menyembuhkanmu.",
+        "catatan": "Dibaca sebanyak 7 kali."
+      },
+      {
+        "id": "mendoakan-orang-sakit-v4",
+        "sumber": "HR. Bukhari",
+        "arab": "اللَّهُمَّ اشْفِ ...",
+        "latin": "Allāhumma isyfi ...",
+        "artinya": "Ya Allah, sembuhkanlah ... (disebut nama orang yang sakit).",
+        "catatan": "Sebutkan nama orang yang sakit pada bagian titik-titik."
+      },
+      {
+        "id": "mendoakan-orang-sakit-v5",
+        "sumber": "HR. Muslim",
+        "arab": "بِسْمِ اللَّهِ أَرْقِيكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ، مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ، اللَّهُ يَشْفِيكَ، بِسْمِ اللَّهِ أَرْقِيكَ",
+        "latin": "Bismillāhi arqīka min kulli syai'in yu'dzīka, min syarri kulli nafsin au ‘ainin ḥāsidin, Allāhu yasyfīka, bismillāhi arqīka.",
+        "artinya": "Dengan nama Allah aku meruqyahmu dari segala sesuatu yang menyakitimu dan dari kejahatan segala makhluk atau kejahatan mata yang dengki. Allah yang menyembuhkanmu. Dengan nama Allah aku meruqyahmu."
+      },
+      {
+        "id": "mendoakan-orang-sakit-v6",
+        "sumber": "HR. Bukhari",
+        "arab": "لَا بَأْسَ، طَهُورٌ إِنْ شَاءَ اللَّهُ",
+        "latin": "Lā ba'sa, ṭahūrun in syā' Allāh.",
+        "artinya": "Sakitmu tidak bahaya, menghapus dosa, jika Allah menghendaki."
       }
     ]
   },
   {
     "id": "doa-ketika-demam",
     "judul": "Doa Ketika Demam",
-    "kategori": "Ketika Demam",
+    "kategori": "Ketika Sakit",
     "konteks": "Dibaca ketika sedang mengalami demam",
     "versions": [
       {
@@ -111,7 +117,7 @@
   {
     "id": "doa-sakit-mata",
     "judul": "Doa Sakit Mata",
-    "kategori": "Ketika Sakit Mata",
+    "kategori": "Ketika Sakit",
     "konteks": "Dibaca ketika mengalami sakit mata",
     "versions": [
       {
@@ -120,97 +126,6 @@
         "arab": "اللَّهُمَّ مَتِّعْنِي بِبَصَرِي وَاجْعَلْهُ الْوَارِثَ مِنِّي وَأَرِنِي فِي الْعَدُوِّ ثَأْرِي وَانْصُرْنِي عَلَى مَنْ ظَلَمَنِي",
         "latin": "Allahumma matti'ni bi bashari waj'alhul waritsa minni wa arini fil 'aduwwi tsa'ri wan shurni 'ala man zhalamani.",
         "artinya": "Ya Allah, berikanlah kenikmatan penglihatanku dan jadikan ia tetap berfungsi hingga akhir hayatku. Perlihatkan balasan terhadap musuhku dan tolonglah aku atas orang yang menzalimiku."
-      }
-    ]
-  },
-  {
-    "id": "doa-dengan-tanah",
-    "judul": "Doa Dengan Tanah",
-    "kategori": "Mendoakan Orang Sakit",
-    "konteks": "Dibaca saat mendoakan dan mengusap bagian tubuh yang sakit",
-    "versions": [
-      {
-        "id": "doa-dengan-tanah-v1",
-        "sumber": "HR. Bukhari",
-        "arab": "بِسْمِ اللَّهِ تُرْبَةُ أَرْضِنَا بِرِيقَةِ بَعْضِنَا يُشْفَى سَقِيمُنَا بِإِذْنِ رَبِّنَا",
-        "latin": "Bismillahi turbatu ardhina biriqati ba'dhina yusfa saqimuna bi idzni rabbina.",
-        "artinya": "Dengan nama Allah, debu tanah kami dengan ludah sebagian kami, semoga orang yang sakit segera sembuh dengan izin Tuhan kami."
-      }
-    ]
-  },
-  {
-    "id": "doa-kesembuhan-orang-sakit",
-    "judul": "Doa Kesembuhan Orang Sakit",
-    "kategori": "Mendoakan Orang Sakit",
-    "konteks": "Dibaca saat menjenguk dan mendoakan orang yang sakit",
-    "versions": [
-      {
-        "id": "doa-kesembuhan-orang-sakit-v1",
-        "sumber": "HR. Bukhari",
-        "arab": "أَذْهِبِ الْبَأْسَ رَبَّ النَّاسِ ...",
-        "latin": "Adzhibil ba'sa Rabban nas...",
-        "artinya": "Hilangkanlah penyakit wahai Tuhan manusia, sembuhkanlah (nama orang), Engkau Maha Penyembuh."
-      }
-    ]
-  },
-  {
-    "id": "doa-tujuh-kali-orang-sakit",
-    "judul": "Doa Tujuh Kali",
-    "kategori": "Mendoakan Orang Sakit",
-    "konteks": "Dibaca sebanyak 7 kali di hadapan orang yang sakit",
-    "versions": [
-      {
-        "id": "doa-tujuh-kali-orang-sakit-v1",
-        "sumber": "HR. Abu Dawud",
-        "arab": "أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ (٧×)",
-        "latin": "As'alullahal 'azhim Rabbal 'Arsyil 'Azhim an yasyfiyak. (7x)",
-        "artinya": "Aku memohon kepada Allah, Tuhan Arsy yang agung agar Dia menyembuhkanmu.",
-        "catatan": "Dibaca sebanyak 7 kali."
-      }
-    ]
-  },
-  {
-    "id": "doa-singkat-orang-sakit",
-    "judul": "Doa Singkat Kesembuhan",
-    "kategori": "Mendoakan Orang Sakit",
-    "konteks": "Dibaca singkat untuk mendoakan orang yang sakit",
-    "versions": [
-      {
-        "id": "doa-singkat-orang-sakit-v1",
-        "sumber": "HR. Bukhari",
-        "arab": "اللَّهُمَّ اشْفِ",
-        "latin": "Allahumma isyfi.",
-        "artinya": "Ya Allah, sembuhkanlah."
-      }
-    ]
-  },
-  {
-    "id": "doa-ruqyah-orang-sakit",
-    "judul": "Doa Ruqyah Orang Sakit",
-    "kategori": "Mendoakan Orang Sakit",
-    "konteks": "Dibaca saat meruqyah atau merawat orang yang sakit",
-    "versions": [
-      {
-        "id": "doa-ruqyah-orang-sakit-v1",
-        "sumber": "HR. Muslim",
-        "arab": "بِسْمِ اللَّهِ أَرْقِيكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ...",
-        "latin": "Bismillahi arqika min kulli syai'in yu'dzika...",
-        "artinya": "Dengan nama Allah aku meruqyahmu dari segala sesuatu yang menyakitimu dan dari kejahatan mata yang dengki."
-      }
-    ]
-  },
-  {
-    "id": "ucapan-kepada-orang-sakit",
-    "judul": "Ucapan Kepada Orang Sakit",
-    "kategori": "Mendoakan Orang Sakit",
-    "konteks": "Diucapkan ketika menjenguk atau menyapa orang yang sakit",
-    "versions": [
-      {
-        "id": "ucapan-kepada-orang-sakit-v1",
-        "sumber": "HR. Bukhari",
-        "arab": "لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ",
-        "latin": "La ba'sa thahurun insya Allah.",
-        "artinya": "Tidak mengapa, semoga menjadi penghapus dosa jika Allah menghendaki."
       }
     ]
   }
