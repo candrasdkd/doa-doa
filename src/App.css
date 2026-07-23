@@ -648,6 +648,38 @@
   letter-spacing: 0.075em;
 }
 
+.verified-badge-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  margin-left: 6px;
+  padding: 2px 7px;
+  color: #155740;
+  font-size: 9px;
+  font-weight: 700;
+  background: #e6f4ee;
+  border: 1px solid #bce3d2;
+  border-radius: 999px;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  vertical-align: middle;
+}
+
+.detail-verified-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 26px;
+  padding: 4px 10px;
+  color: #155740;
+  font-size: 10px;
+  font-weight: 700;
+  background: #e6f4ee;
+  border: 1px solid #bce3d2;
+  border-radius: 999px;
+  letter-spacing: 0.02em;
+}
+
 .detail-version-count {
   color: var(--ink-faint);
   font-size: 10.5px;

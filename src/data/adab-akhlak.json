@@ -4,6 +4,7 @@
     "judul": "Doa Ketika Marah",
     "kategori": "Adab & Akhlak",
     "konteks": "Dibaca ketika sedang marah untuk meredakan emosi",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "ketika-marah-v1",
@@ -26,6 +27,7 @@
     "judul": "Doa Ketika Mendengar Suara Anjing dan Keledai",
     "kategori": "Adab & Akhlak",
     "konteks": "Dibaca ketika sedang mendengarkan suara anjing dan keledai",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "mendengar-suara-anjing-dan-keledai-v1",
@@ -41,6 +43,7 @@
     "judul": "Doa Masuk Pasar",
     "kategori": "Adab & Akhlak",
     "konteks": "Dibaca ketika memasuki pasar atau pusat perbelanjaan",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "masuk-pasar-v1",
@@ -58,6 +61,7 @@
     "judul": "Doa Ketika Tertimpa Musibah",
     "kategori": "Adab & Akhlak",
     "konteks": "Dibaca saat tertimpa ujian atau musibah",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "ketika-terkena-musibah-v1",
@@ -73,6 +77,7 @@
     "judul": "Doa Ketika Mendengar Petir",
     "kategori": "Adab & Akhlak",
     "konteks": "Dibaca saat mendengar suara guruh atau petir",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "ketika-mendengar-petir-v1",
@@ -89,6 +94,7 @@
     "judul": "Doa Perlindungan dari Keburukan Anggota Badan",
     "kategori": "Adab & Akhlak",
     "konteks": "Dibaca untuk memohon perlindungan dari keburukan pendengaran, penglihatan, lisan, hati, dan kemaluan",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "berlindung-keburukan-anggota-badan-v1",

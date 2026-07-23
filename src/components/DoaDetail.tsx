@@ -47,6 +47,14 @@ export function DoaDetail({ doa, isFavorite, onBack, onToggleFavorite }: Props) 
         <header className="detail-heading">
           <div className="detail-heading-meta">
             <span className="detail-kategori-badge">{doa.kategori}</span>
+            {doa.terverifikasi && (
+              <span className="detail-verified-badge" title="Teks doa & riwayat telah diverifikasi">
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none">
+                  <path d="M20 6L9 17l-5-5" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+                Terverifikasi
+              </span>
+            )}
             <span className="detail-version-count">{doa.versions.length} versi bacaan</span>
           </div>
           <h1 className="detail-judul">{doa.judul}</h1>

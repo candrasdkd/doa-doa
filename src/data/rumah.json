@@ -4,6 +4,7 @@
     "judul": "Doa Keluar Rumah",
     "kategori": "Rumah",
     "konteks": "Dibaca ketika hendak keluar rumah",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "keluar-rumah-v1",
@@ -19,6 +20,7 @@
     "judul": "Doa Masuk Rumah",
     "kategori": "Rumah",
     "konteks": "Dibaca ketika hendak masuk rumah",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "masuk-rumah-v1",

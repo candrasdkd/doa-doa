@@ -4,6 +4,7 @@
     "judul": "Doa Sebelum Makan",
     "kategori": "Makan & Minum",
     "konteks": "Dibaca sebelum mulai makan atau minum",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "sebelum-makan-v1",
@@ -27,6 +28,7 @@
     "judul": "Doa Sesudah Makan",
     "kategori": "Makan & Minum",
     "konteks": "Dibaca setelah selesai makan atau minum",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "sesudah-makan-v1",

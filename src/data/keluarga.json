@@ -4,6 +4,7 @@
     "judul": "Doa untuk Kedua Orang Tua",
     "kategori": "Keluarga",
     "konteks": "Dibaca untuk mendoakan kedua orang tua",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "orang-tua-v1",
@@ -26,6 +27,7 @@
     "judul": "Doa Berhubungan Suami Istri (Menjimak)",
     "kategori": "Keluarga",
     "konteks": "Dibaca sebelum berhubungan suami istri",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "berhubungan-suami-istri-v1",

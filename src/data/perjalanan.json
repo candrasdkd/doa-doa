@@ -4,6 +4,7 @@
     "judul": "Doa Naik Kendaraan",
     "kategori": "Perjalanan",
     "konteks": "Dibaca ketika hendak menaiki kendaraan",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "naik-kendaraan-v1",
@@ -28,6 +29,7 @@
     "judul": "Doa Safar (Perjalanan Jauh)",
     "kategori": "Perjalanan",
     "konteks": "Dibaca ketika memulai perjalanan jauh",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "safar-v1",

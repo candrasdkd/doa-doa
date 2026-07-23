@@ -20,7 +20,17 @@ export function DoaCard({ doa, isFavorite, isSelected = false, onOpen, onToggleF
           {doa.kategori.charAt(0)}
         </span>
         <span className="doa-card-main">
-          <span className="doa-card-kategori">{doa.kategori}</span>
+          <span className="doa-card-kategori">
+            {doa.kategori}
+            {doa.terverifikasi && (
+              <span className="verified-badge-pill" title="Teks doa & riwayat telah diverifikasi">
+                <svg width="9" height="9" viewBox="0 0 24 24" fill="none">
+                  <path d="M20 6L9 17l-5-5" stroke="currentColor" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+                Terverifikasi
+              </span>
+            )}
+          </span>
           <span className="doa-card-judul">{doa.judul}</span>
           {doa.konteks && <span className="doa-card-konteks">{doa.konteks}</span>}
           <span className="doa-card-versi">

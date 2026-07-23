@@ -4,6 +4,7 @@
     "judul": "Dzikir & Doa Ketika Sakit",
     "kategori": "Ketika Sakit",
     "konteks": "Bacaan dzikir dan doa yang diajarkan Rasulullah ﷺ saat merasakan sakit",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "dzikir-doa-sakit-v1",
@@ -50,6 +51,7 @@
     "judul": "Doa Mendoakan Orang Sakit",
     "kategori": "Mendoakan Orang Sakit",
     "konteks": "Doa-doa yang dibaca saat menjenguk atau mendoakan kesembuhan orang yang sakit",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "mendoakan-orang-sakit-v1",
@@ -104,6 +106,7 @@
     "judul": "Doa Ketika Demam",
     "kategori": "Ketika Sakit",
     "konteks": "Dibaca ketika sedang mengalami demam",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "doa-ketika-demam-v1",
@@ -119,6 +122,7 @@
     "judul": "Doa Sakit Mata",
     "kategori": "Ketika Sakit",
     "konteks": "Dibaca ketika mengalami sakit mata",
+    "terverifikasi": false,
     "versions": [
       {
         "id": "doa-sakit-mata-v1",

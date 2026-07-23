@@ -4,6 +4,7 @@
     "judul": "Doa Masuk & Keluar Kamar Mandi",
     "kategori": "Kamar Mandi",
     "konteks": "Dibaca ketika memasuki dan meninggalkan kamar mandi/WC",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "kamar-mandi-v1",

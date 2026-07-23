@@ -21,6 +21,8 @@ export interface Doa {
   kategori: string;
   /** Konteks singkat kapan doa ini dibaca */
   konteks?: string;
+  /** Status verifikasi keabsahan teks & riwayat doa oleh reviewer */
+  terverifikasi?: boolean;
   versions: DoaVersion[];
 }
 

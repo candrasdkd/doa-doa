@@ -4,6 +4,7 @@
     "judul": "Doa Setelah Adzan",
     "kategori": "Sholat & Adzan",
     "konteks": "Dibaca setelah mendengarkan kumandang adzan",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "setelah-adzan-v1",
@@ -19,6 +20,7 @@
     "judul": "Doa Masuk Masjid",
     "kategori": "Sholat & Adzan",
     "konteks": "Dibaca ketika melangkah masuk ke dalam masjid",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "masuk-masjid-v1",
@@ -35,6 +37,7 @@
     "judul": "Doa Keluar Masjid",
     "kategori": "Sholat & Adzan",
     "konteks": "Dibaca ketika melangkah keluar dari masjid",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "keluar-masjid-v1",
@@ -51,6 +54,7 @@
     "judul": "Doa Sujud Quran (Sujud Tilawah)",
     "kategori": "Sholat & Adzan",
     "konteks": "Dibaca ketika menemui atau membaca ayat sujud dalam Al-Qur'an",
+    "terverifikasi": true,
     "versions": [
       {
         "id": "sujud-quran-v1",
